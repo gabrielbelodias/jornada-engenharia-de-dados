@@ -1,0 +1,25 @@
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Variáveis de ambiente — NUNCA sobe isso
+.env
+*.env
+
+# Dados brutos
+*.csv
+*.parquet
+*.xlsx
+data/raw/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+EOF
