@@ -26,3 +26,5 @@ Engenheiro de Dados Pleno.
 - WSL2 Ubuntu 22.04
 - VS Code
 - Docker
+
+#Alteração 1
